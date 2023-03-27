@@ -76,6 +76,8 @@ function App() {
       {toggle && (
         <Product item={item} provider={provider} account={account} dappazon={dappazon} togglePop={togglePop} />
       )}
+      
+      <Footer />
     </div>
   );
 }
