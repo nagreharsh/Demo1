@@ -12,5 +12,5 @@ const Rating = ({ value }) => {
         </div>
     );
 }
-
+mjjnnjjnkjnkjn
 export default Rating;
